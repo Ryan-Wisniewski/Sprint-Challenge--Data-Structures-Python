@@ -21,6 +21,7 @@ for y in names_2:
         duplicates.append(y)
     
 
+
 #this one bad. o(n^2) with a bunchhhh of inputs as well. 
 # For each value of names_1 it loops through the entire array of names_2 
 # with 1000 names its 1000^2
